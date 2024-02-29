@@ -16,7 +16,6 @@ This application will take in information about employees on a software engineer
   - [Tests](#tests)
   - [Questions](#questions)
   - [Deployed Application](#deployed-application)
-  - [Video Walkthrough Link](#video-walkthrough-link)
   - [License](#license)
 
 
@@ -42,9 +41,7 @@ If you have questions about this repository or application, you can email me at 
 
 ## Deployed Application
 ![Here is a screenshot of the team profile HTML generated using this application](./assets/images/team-profile-generator-output-html.png)
-
-## Video Walkthrough Link
-[Watch the Walkthrough Video](https://app.screencastify.com/v2/manage/videos/xzAgHhnqwEqC90ZHF936)
+[Here is a link to the deployed application](https://victoriadeyemi.github.io/team-profile-generator/)
 
 ## License
 This application is licensed under the MIT License
