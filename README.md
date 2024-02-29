@@ -39,9 +39,8 @@ Use the npm test command in the termainal to run tests.
 ## Questions
 If you have questions about this repository or application, you can email me at <a href="mailto:victoriadeyemi1038@gmail.com">victoriadeyemi1038@gmail.com</a>  or visit my GitHub page at [victoriadeyemi](https://github.com/victoriadeyemi)
 
-## Deployed Application
+## Generated Team Profile
 ![Here is a screenshot of the team profile HTML generated using this application](./assets/images/team-profile-generator-output-html.png)
-[Here is a link to the deployed application](https://victoriadeyemi.github.io/team-profile-generator/)
 
 ## License
 This application is licensed under the MIT License
