@@ -41,7 +41,7 @@ Use the npm test command in the termainal to run tests.
 If you have questions about this repository or application, you can email me at <a href="mailto:victoriadeyemi1038@gmail.com">victoriadeyemi1038@gmail.com</a>  or visit my GitHub page at [victoriadeyemi](https://github.com/victoriadeyemi)
 
 ## Deployed Application
-![Here is a screesnshot of the deployed application](./assets/images/team-profile-generator-output-html.png)
+![Here is a screenshot of the team profile HTML generated using this application](./assets/images/team-profile-generator-output-html.png)
 
 ## Video Walkthrough Link
 [Watch the Walkthrough Video](https://app.screencastify.com/v2/manage/videos/xzAgHhnqwEqC90ZHF936)
