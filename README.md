@@ -1,5 +1,4 @@
 # Team-profile-generator
-Team Profile Generator reflecting object oriented programming.
 
 
 ## Description
