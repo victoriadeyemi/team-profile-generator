@@ -9,7 +9,6 @@ This application will take in information about employees on a software engineer
 ## Table of Contents
 - [Team-profile-generator](#team-profile-generator)
   - [Description](#description)
-  - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
