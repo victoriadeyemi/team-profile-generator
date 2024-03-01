@@ -43,4 +43,6 @@ If you have questions about this repository or application, you can email me at 
 ![Here is a screenshot of the team profile HTML generated using this application](./assets/images/team-profile-generator-output-html.png)
 
 ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This application is licensed under the MIT License.
