@@ -34,7 +34,7 @@ This enables a smooth and seamless process for the user to store team members' i
 If you wish to contribute to this application, you are welcome to do to so. Simply clone this repository, create your branch and submit a pull request. Please provide a clear title to enable me and others understand what you have contributed. Cheers.
 
 ## Tests
-Use the npm test command in the termainal to run tests. 
+Use the npm test command in the terminal to run tests. 
 
 ## Questions
 If you have questions about this repository or application, you can email me at <a href="mailto:victoriadeyemi1038@gmail.com">victoriadeyemi1038@gmail.com</a>  or visit my GitHub page at [victoriadeyemi](https://github.com/victoriadeyemi)
