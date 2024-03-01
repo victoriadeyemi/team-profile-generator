@@ -15,7 +15,7 @@ This application will take in information about employees on a software engineer
   - [Contribution](#contribution)
   - [Tests](#tests)
   - [Questions](#questions)
-  - [Deployed Application](#deployed-application)
+  - [Generated Team Profile](#Generated-Team-Profile)
   - [License](#license)
 
 
